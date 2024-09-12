@@ -3,8 +3,12 @@ name: Pandoc build
 on: push
 
 jobs:
-  convert_via_pandoc:
+  deploy_pages:
     runs-on: ubuntu-22.04
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
       # Checkout, configure boilerplate
       # cf https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
