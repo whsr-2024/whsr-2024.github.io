@@ -19,7 +19,7 @@ jobs:
       
       # Building
       - run: echo "Hello!" > input.txt  # create an example file
-      - uses: docker://pandoc/core:2.9
+      - uses: nikeee/setup-pandoc@v1
       - run: make
 
       # Deploying to GitHub pages
