@@ -4,5 +4,6 @@ output:
     md_extensions: +raw_html
 ---
 
-Coming soon
+Coming soon!
+
 
