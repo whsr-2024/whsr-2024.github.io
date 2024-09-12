@@ -8,6 +8,7 @@ jobs:
     steps:
       - run: pwd > input.txt  # create an example file
       - run: pwd
+      - run: ls -lAh ../
       - run: ls -lAh
       - uses: docker://pandoc/core:2.9
         with:
@@ -15,3 +16,4 @@ jobs:
             --standalone
             --output=index.html
             input.txt
+      - run: ls -lAh
