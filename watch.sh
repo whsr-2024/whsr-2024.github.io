@@ -1,0 +1,9 @@
+#!/bin/bash
+
+php -S localhost:8080 -t . &
+
+while [ true ]
+do
+    inotifywait pages --recursive
+    make pages
+done
