@@ -7,6 +7,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - run: pwd > input.txt  # create an example file
+      - run: ls -lAh
       - uses: docker://pandoc/core:2.9
         with:
           args: >-  # allows you to break string into multiple lines
