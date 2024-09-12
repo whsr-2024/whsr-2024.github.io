@@ -1,4 +1,4 @@
-name: Long Usage
+name: Pandoc build
 
 on: push
 
