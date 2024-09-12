@@ -6,16 +6,28 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
-      - run: echo $GITHUB_WORKSPACE
-      - run: pwd > input.txt  # create an example file
-      - run: pwd
-      - run: ls -lAh ../
-      - run: ls -lAh
+      # Checkout, configure boilerplate
+      # cf https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      
+      # Building
+      - run: echo "Hello!" > input.txt  # create an example file
       - uses: docker://pandoc/core:2.9
         with:
           args: >-  # allows you to break string into multiple lines
             --standalone
             --output=index.html
             input.txt
-      - run: ls -lAh
+
+      # Deploying to GitHub pages
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          # upload entire directory
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
