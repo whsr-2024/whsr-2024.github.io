@@ -136,5 +136,5 @@ See the [Humanoids 2024 website](https://2024.ieee-humanoids.org/event-center/ac
 
 * Mélodie Daniel, *University of Bordeaux, France*, [melodie.daniel@u-bordeaux.fr](mailto:melodie.daniel@u-bordeaux.fr)
 * Grégoire Passault, *University of Bordeaux, France*, [gregoire.passault@u-bordeaux.fr](mailto:gregoire.passault@u-bordeaux.fr)
-* Alessandra Rossi, *University of Hertfordshire, UK*, [a.rossi@herts.ac.uk](mailto:a.rossi@herts.ac.uk)
-* Sven Behnke, *University of Bonn, Germany*, [behnke@cs.uni-bonn.de](behnke@cs.uni-bonn.de)
+* Alessandra Rossi, *University of Hertfordshire, UK*
+* Sven Behnke, *University of Bonn, Germany*
