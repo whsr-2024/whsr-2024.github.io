@@ -1,5 +1,5 @@
 ---
-title: "Workshop on Humanoid Soccer Robot 2024"
+title: "Workshop on Humanoid Soccer Robots 2024"
 output:
     md_extensions: +raw_html
 ---
