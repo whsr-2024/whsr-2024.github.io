@@ -45,7 +45,7 @@ This workshop aims to gather the humanoid robotics research community, particula
 
 <hr/>
 
-**Call for presentations**
+**Call for contributions**
 
 We encourage researchers in humanoid robotics to present ongoing work, recent results, and future directions.
 We invite to submit a **2-page extended abstract** in PDF format, following the [IEEE conference template](https://www.ieee.org/conferences/publishing/templates.html).
