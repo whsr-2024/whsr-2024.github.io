@@ -61,7 +61,7 @@ Submission platform to be announced
 **Key dates**
 
 * **Submission deadline**: October 6, 2024
-* **Notification of acceptance**: October 16, 202
+* **Notification of acceptance**: October 16, 2024
 * **Workshop date**: November 22, 2024
 
 <hr/>
