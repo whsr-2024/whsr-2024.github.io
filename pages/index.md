@@ -50,10 +50,12 @@ This workshop aims to gather the humanoid robotics research community, particula
 We encourage researchers in humanoid robotics to present ongoing work, recent results, and future directions.
 We invite to submit a **2-page extended abstract** in PDF format, following the [IEEE conference template](https://www.ieee.org/conferences/publishing/templates.html).
 
-<div class="alert alert-warning">
+<div class="alert alert-success">
+<p>
 
-Submission platform to be announced
+Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whsr2024)
 
+</p>
 </div>
 
 <hr/>
@@ -103,9 +105,11 @@ Submission platform to be announced
 </div>
 
 <div class="alert alert-info">
+<p>
 
 All participants will have to [register to Humanoids 2024](https://2024.ieee-humanoids.org/registration/)
 
+</p>
 </div>
 
 <hr/>
@@ -115,9 +119,11 @@ All participants will have to [register to Humanoids 2024](https://2024.ieee-hum
 The workshop is a **full-day** workshop, taking place on the **22nd of November, 2024**.
 
 <div class="alert alert-warning">
+<p>
 
 To be announced
 
+</p>
 </div>
 
 <hr/>
