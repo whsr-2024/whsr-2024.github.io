@@ -63,9 +63,12 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 
 **Key dates**
 
-* **Submission deadline**: October 6, 2024
-* **Notification of acceptance**: October 16, 2024
-* **Workshop date**: November 22, 2024
+
+<ul>
+<li><b>Submission deadline</b>: <s style="color:red">October 6, 2024</s> &rarr; October 13, 2024</li>
+<li><b>Notification of acceptance</b>: <s style="color:red">October 16, 2024</s> &rarr; October 22, 2024</li>
+<li><b>Workshop date</b>: November 22, 2024</li>
+</ul>
 
 <hr/>
 
