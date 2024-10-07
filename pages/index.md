@@ -84,7 +84,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 
 <small>
 
-*Antonin Raffin, a Research Engineer at the German Aerospace Center (DLR), specializes in reinforcement learning (RL). He is the principal developer of Stable-Baselines3, an open-source library implementing deep RL algorithms. Raffin's work focuses on improving RL reproducibility and its applications in robotics, with a particular focus on learning on real robots*
+*Antonin Raffin, a Research Engineer at the German Aerospace Center (DLR), specializes in reinforcement learning (RL). He is the principal developer of Stable-Baselines3, an open-source library implementing deep RL algorithms. Raffin's work focuses on improving RL reproducibility and its applications in robotics. In particular, he aims at learning directly on the real robots*
 
 </small>
 
