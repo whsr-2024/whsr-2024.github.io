@@ -97,6 +97,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 **Rémi Cadene** ([homepage](http://remicadene.com/))  
 *Hugging Face*
 
+<b>
+Presentation:
+</b>
+LeRobot: Lowering the entry barrier to AI for robotics
+
 <small>
 
 *Rémi Cadene, a former Tesla researcher, is currently leading the development of LeRobot at Hugging Face. This open-source robotics project aims to integrate AI with physical systems, leveraging Cadene's expertise in autonomous technologies. He is actively recruiting engineers to advance the initiative in Paris, focusing on creating accessible robotic solutions that utilize deep learning and embodied AI principles.*
