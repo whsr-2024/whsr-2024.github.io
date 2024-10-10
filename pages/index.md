@@ -82,6 +82,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 **Antonin Raffin** ([homepage](https://araffin.github.io/))  
 *German Aerospace Center (DLR)*
 
+<b>
+Presentation:
+</b>
+Tips for Learning Locomotion Directly on Real Hardware
+
 <small>
 
 *Antonin Raffin, a Research Engineer at the German Aerospace Center (DLR), specializes in reinforcement learning (RL). He is the principal developer of Stable-Baselines3, an open-source library implementing deep RL algorithms. Raffin's work focuses on improving RL reproducibility and its applications in robotics. In particular, he aims at learning directly on the real robots*
