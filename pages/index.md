@@ -72,6 +72,187 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 
 <hr/>
 
+**Schedule**
+
+<div class="table-responsive">
+<table class="table table-striped">
+<tr>
+<th>Time</th>
+<th>Event</th>
+</tr>
+
+<tr class="opacity-50 bg-warning">
+<td>08:30</td>
+<td>Registration opens</td>
+</tr>
+
+<tr>
+<th></th>
+<th class="text-center">Session 1: Localization, perception and multi-robots coordination</th>
+</tr>
+
+<tr>
+<td>09:00</td>
+<td>
+    <span class="badge badge-primary bg-primary">Invited talk</span> TBA <br/>
+    <small>TBA</small>
+</td>
+</tr>
+
+<tr>
+<td>09:30</td>
+<td>
+    Anticipatory Approach to Combining Local and Global Perception for Stable Decision-Making<br/>
+    <small>Heinrich Mellmann</small>
+</td>
+</tr>
+
+<tr>
+<td>09:50</td>
+<td>
+    A Sampling-Based Algorithm for Multi-Agent Coordination in RoboCup Soccer<br/>
+    <small>Filippo Spinelli</small>
+</td>
+</tr>
+
+<tr>
+<td>10:10</td>
+<td>
+    Kinematic State Estimation for Humanoid Robots in the Robocup Competition<br/>
+    <small>Thomas O'Brien</small>
+</td>
+</tr>
+
+<tr class="opacity-50 bg-warning">
+<td>10:30</td>
+<td>
+    Coffee break
+</td>
+</tr>
+
+<tr>
+<td></td>
+<th class="text-center">Session 2: Machine learning for humanoid locomotion (1/2)</th>
+</tr>
+
+<tr>
+<td>11:00</td>
+<td>
+    <span class="badge badge-primary bg-primary">Invited talk</span> LeRobot: Lowering the entry barrier to AI for robotics <br/>
+    <small>Rémi Cadene</small>
+</td>
+</tr>
+
+<tr>
+<td>11:45</td>
+<td>
+    Learning Footstep Planning using Deep Reinforcement Learning for Dynamic Walking<br/>
+    <small>Jasper Güldenstein</small>
+</td>
+</tr>
+
+<tr>
+<td>12:05</td>
+<td>
+    Introducing FootstepNet: an Efficient Actor-Critic Method for Fast On-line Bipedal Footstep Planning and Forecasting<br/>
+    <small>Clément Gaspard</small>
+</td>
+</tr>
+
+<tr class="opacity-50 bg-warning">
+<td>12:30</td>
+<td>
+    Lunch break
+</td>
+</tr>
+
+<tr>
+<td></td>
+<th class="text-center">Session 3: Machine learning for humanoid locomotion (2/2)</th>
+</tr>
+
+<tr>
+<td>13:30</td>
+<td>
+    <span class="badge badge-primary bg-primary">Invited talk</span> Tips for Learning Locomotion Directly on Real Hardware <br/>
+    <small>Antonin Raffin</small> 
+</td>
+</tr>
+
+<tr>
+<td>14:15</td>
+<td>
+    Introducing FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots<br/>
+    <small>Marc Duclusaud</small>
+</td>
+</tr>
+
+<tr>
+<td>14:35</td>
+<td>
+    Towards the ultimate goal of RoboCup with a standard humanoid robot platform<br/>
+    <small>Mingguo Zhao</small>
+</td>
+</tr>
+
+
+<tr class="opacity-50 bg-warning">
+<th>15:00</th>
+<td>
+    Coffee break
+</td>
+</tr>
+
+<tr>
+<th></th>
+<th class="text-center">Session 4: Robot modelling &amp; control</th>
+</tr>
+
+<tr>
+<td>15:30</td>
+<td>
+    <span class="badge badge-primary bg-primary">Organizer talk</span>
+    NimbRo Humanoid Robots RoboCup AdultSize Soccer Competitions: Mechatronics, Perception, Control, and Learning
+    <br/>
+    <small>Sven Behnke</small> 
+</td>
+</tr>
+
+<tr>
+<td>16:00</td>
+<td>
+    <span class="badge badge-primary bg-primary">Organizer talk</span>
+    From Zero to Robot: Rhoban Pipeline for Designing and Prototyping Legged Robots
+    <br/>
+    <small>Grégoire Passault</small> 
+</td>
+</tr>
+
+<tr>
+<td>16:30</td>
+<td>
+    Maximum Impulse Approach to Soccer Kicking for Humanoid Robots<br/>
+    <small>Grzegorz Ficht</small> 
+</td>
+</tr>
+
+<tr>
+<th>17:00</th>
+<th class="text-center">Group discussion</th>
+</tr>
+
+<tr class="bg-warning opacity-50">
+<td>17:30</td>
+<td>
+    End of the workshop
+</td>
+</tr>
+
+</table>
+</div>
+
+<hr/>
+
 **Invited speakers**
 
 <div class="row">
