@@ -88,39 +88,40 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 
 <tr>
 <th></th>
-<th class="text-center">Session 1: Localization, perception and multi-robots coordination</th>
+<th class="text-center">Session 1: Robot modelling &amp; control</th>
 </tr>
 
 <tr>
 <td>09:00</td>
 <td>
-    <span class="badge badge-primary bg-primary">Invited talk</span> TBA <br/>
-    <small>TBA</small>
+    <span class="badge badge-primary bg-primary">Organizer talk</span>
+    NimbRo Humanoid Robots RoboCup AdultSize Soccer Competitions: Mechatronics, Perception, Control, and Learning
+    <br/>
+    <small>Sven Behnke</small> 
 </td>
 </tr>
 
 <tr>
-<td>09:30</td>
+<td>09:25</td>
 <td>
-    Anticipatory Approach to Combining Local and Global Perception for Stable Decision-Making<br/>
-    <small>Heinrich Mellmann</small>
+    <span class="badge badge-primary bg-primary">Organizer talk</span>
+    From Zero to Robot: Rhoban Pipeline for Designing and Prototyping Legged Robots
+    <br/>
+    <small>Grégoire Passault</small> 
 </td>
 </tr>
 
 <tr>
 <td>09:50</td>
 <td>
-    A Sampling-Based Algorithm for Multi-Agent Coordination in RoboCup Soccer<br/>
-    <small>Filippo Spinelli</small>
+    Maximum Impulse Approach to Soccer Kicking for Humanoid Robots<br/>
+    <small>Grzegorz Ficht</small> 
 </td>
 </tr>
 
 <tr>
 <td>10:10</td>
-<td>
-    Kinematic State Estimation for Humanoid Robots in the Robocup Competition<br/>
-    <small>Thomas O'Brien</small>
-</td>
+<th class="text-center">Group discussion</th>
 </tr>
 
 <tr class="opacity-50 bg-warning">
@@ -205,34 +206,38 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 
 <tr>
 <th></th>
-<th class="text-center">Session 4: Robot modelling &amp; control</th>
+<th class="text-center">Session 4: Localization, perception and multi-robots coordination</th>
 </tr>
 
 <tr>
 <td>15:30</td>
 <td>
-    <span class="badge badge-primary bg-primary">Organizer talk</span>
-    NimbRo Humanoid Robots RoboCup AdultSize Soccer Competitions: Mechatronics, Perception, Control, and Learning
-    <br/>
-    <small>Sven Behnke</small> 
+    <span class="badge badge-primary bg-primary">Invited talk</span> TBA <br/>
+    <small>TBA</small>
 </td>
 </tr>
 
 <tr>
 <td>16:00</td>
 <td>
-    <span class="badge badge-primary bg-primary">Organizer talk</span>
-    From Zero to Robot: Rhoban Pipeline for Designing and Prototyping Legged Robots
-    <br/>
-    <small>Grégoire Passault</small> 
+    Anticipatory Approach to Combining Local and Global Perception for Stable Decision-Making<br/>
+    <small>Heinrich Mellmann</small>
 </td>
 </tr>
 
 <tr>
-<td>16:30</td>
+<td>16:20</td>
 <td>
-    Maximum Impulse Approach to Soccer Kicking for Humanoid Robots<br/>
-    <small>Grzegorz Ficht</small> 
+    Kinematic State Estimation for Humanoid Robots in the Robocup Competition<br/>
+    <small>Thomas O'Brien</small>
+</td>
+</tr>
+
+<tr>
+<td>16:40</td>
+<td>
+    A Sampling-Based Algorithm for Multi-Agent Coordination in RoboCup Soccer<br/>
+    <small>Filippo Spinelli</small>
 </td>
 </tr>
 
