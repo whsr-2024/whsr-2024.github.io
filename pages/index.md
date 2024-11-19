@@ -212,8 +212,8 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <tr>
 <td>15:30</td>
 <td>
-    <span class="badge badge-primary bg-primary">Invited talk</span> TBA <br/>
-    <small>TBA</small>
+    <span class="badge badge-primary bg-primary">Invited talk</span> Generalization in Robotic Vision: From Efficient Algorithms to Foundation Models.<br/>
+    <small>Jan-Nico Zaech</small>
 </td>
 </tr>
 
