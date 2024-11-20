@@ -92,17 +92,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 </tr>
 
 <tr>
-<td>09:00</td>
-<td>
-    <span class="badge badge-primary bg-primary">Organizer talk</span>
-    NimbRo Humanoid Robots RoboCup AdultSize Soccer Competitions: Mechatronics, Perception, Control, and Learning
-    <br/>
-    <small>Sven Behnke</small> 
-</td>
-</tr>
-
-<tr>
-<td>09:25</td>
+<td>09:30</td>
 <td>
     <span class="badge badge-primary bg-primary">Organizer talk</span>
     From Zero to Robot: Rhoban Pipeline for Designing and Prototyping Legged Robots
@@ -242,12 +232,17 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 </tr>
 
 <tr>
-<th>17:00</th>
-<th class="text-center">Group discussion</th>
+<td>17:00</td>
+<td>
+    <span class="badge badge-primary bg-primary">Organizer talk</span>
+    NimbRo Humanoid Robots RoboCup AdultSize Soccer Competitions: Mechatronics, Perception, Control, and Learning
+    <br/>
+    <small>Sven Behnke</small> 
+</td>
 </tr>
 
 <tr class="bg-warning opacity-50">
-<td>17:30</td>
+<td>17:45</td>
 <td>
     End of the workshop
 </td>
