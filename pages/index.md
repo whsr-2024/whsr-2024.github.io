@@ -235,7 +235,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>17:00</td>
 <td>
     <span class="badge badge-primary bg-primary">Organizer talk</span>
-    NimbRo Humanoid Robots RoboCup AdultSize Soccer Competitions: Mechatronics, Perception, Control, and Learning
+    NimbRo Humanoid Robots Winning RoboCup AdultSize Soccer Competitions: Mechatronics, Perception, Control, and Learning
     <br/>
     <small>Sven Behnke</small> 
 </td>
