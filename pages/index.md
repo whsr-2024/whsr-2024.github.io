@@ -12,6 +12,15 @@ output:
 <img src="imgs/header.jpg" style="max-height:200px; max-width:100%; aspect:1" />
 
 </div>
+
+
+<div class="alert alert-info text-center">
+
+🎥 Follow the event live on [Zoom](https://u-bordeaux-fr.zoom.us/j/82656589476) 🎥
+
+</div>
+
+
 <hr/>
 
 **Presentation**
