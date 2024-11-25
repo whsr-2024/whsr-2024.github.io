@@ -286,7 +286,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     <span class="badge badge-primary bg-primary">Organizer talk</span>
     NimbRo Humanoid Robots Winning RoboCup AdultSize Soccer Competitions: Mechatronics, Perception, Control, and Learning
     <br/>
-    <small>Sven Behnke</small> 
+    <small>
+        Sven Behnke
+        -
+        <img src="imgs/slides.png" width="24" /> <a target="_blank" href="slides/Humanoids_2024_Soccer_WS_Sven_Behnke_11_22.pdf">Slides</a>
+    </small> 
 </td>
 </tr>
 
