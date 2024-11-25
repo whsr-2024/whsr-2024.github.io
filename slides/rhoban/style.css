@@ -1,0 +1,23 @@
+.columns {
+    display: flex;
+    width: 100%;
+}
+
+.columns div {
+    width: 50%;
+}
+
+.todo {
+    background-color:yellow;
+}
+
+.footnote {
+    border-top: 0.1em dashed #aaa;
+    font-size: 60%;
+    margin-top: 32px;
+    background:none;
+}
+
+span.cite {
+    font-size:70%;
+}

@@ -13,14 +13,6 @@ output:
 
 </div>
 
-
-<div class="alert alert-info text-center">
-
-🎥 Follow the event live on [Zoom](https://u-bordeaux-fr.zoom.us/j/82656589476) 🎥
-
-</div>
-
-
 <hr/>
 
 **Presentation**
@@ -81,7 +73,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 
 <hr/>
 
-**Schedule**
+**Program**
 
 <div class="table-responsive">
 <table class="table table-striped">
@@ -106,7 +98,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     <span class="badge badge-primary bg-primary">Organizer talk</span>
     From Zero to Robot: Rhoban Pipeline for Designing and Prototyping Legged Robots
     <br/>
-    <small>Grégoire Passault</small> 
+    <small>
+        Grégoire Passault
+        -
+        <img src="imgs/slides.png" width="24" /> <a target="_blank" href="slides/rhoban/">Slides</a>
+    </small> 
 </td>
 </tr>
 
@@ -114,7 +110,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>09:50</td>
 <td>
     Maximum Impulse Approach to Soccer Kicking for Humanoid Robots<br/>
-    <small>Grzegorz Ficht</small> 
+    <small>
+        Grzegorz Ficht
+        -
+        <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_5.pdf">Extended abstract</a>
+    </small> 
 </td>
 </tr>
 
@@ -147,7 +147,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>11:45</td>
 <td>
     Learning Footstep Planning using Deep Reinforcement Learning for Dynamic Walking<br/>
-    <small>Jasper Güldenstein</small>
+    <small>
+        Jasper Güldenstein
+        -
+        <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_4.pdf">Extended abstract</a>
+    </small>
 </td>
 </tr>
 
@@ -155,7 +159,13 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>12:05</td>
 <td>
     Introducing FootstepNet: an Efficient Actor-Critic Method for Fast On-line Bipedal Footstep Planning and Forecasting<br/>
-    <small>Clément Gaspard</small>
+    <small>
+        Clément Gaspard
+        -
+        <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_3.pdf">Extended abstract</a>
+        -
+        <img src="imgs/github.png" width="24" /> <a target="_blank" href="https://github.com/rhoban/footstepnet_envs">Repository</a>
+    </small>
 </td>
 </tr>
 
@@ -175,7 +185,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>13:30</td>
 <td>
     <span class="badge badge-primary bg-primary">Invited talk</span> Tips for Learning Locomotion Directly on Real Hardware <br/>
-    <small>Antonin Raffin</small> 
+    <small>
+        Antonin Raffin
+        -
+        <img src="imgs/slides.png" width="24" /> <a target="_blank" href="https://araffin.github.io/slides/ingredients-learning-locomotion/">Slides</a>
+    </small> 
 </td>
 </tr>
 
@@ -183,7 +197,13 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>14:15</td>
 <td>
     Introducing FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots<br/>
-    <small>Marc Duclusaud</small>
+    <small>
+        Marc Duclusaud
+        -
+        <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_2.pdf">Extended abstract</a>
+        -
+        <img src="imgs/github.png" width="24" /> <a target="_blank" href="https://github.com/rhoban/frasa">Repository</a>
+    </small>
 </td>
 </tr>
 
@@ -191,7 +211,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>14:35</td>
 <td>
     Towards the ultimate goal of RoboCup with a standard humanoid robot platform<br/>
-    <small>Mingguo Zhao</small>
+    <small>
+        Mingguo Zhao
+        -
+        <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_6.pdf">Extended abstract</a>
+    </small>
 </td>
 </tr>
 
@@ -220,7 +244,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>16:00</td>
 <td>
     Anticipatory Approach to Combining Local and Global Perception for Stable Decision-Making<br/>
-    <small>Heinrich Mellmann</small>
+    <small>
+        Heinrich Mellmann
+        -
+        <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_8.pdf">Extended abstract</a>
+    </small>
 </td>
 </tr>
 
@@ -228,7 +256,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>16:20</td>
 <td>
     Kinematic State Estimation for Humanoid Robots in the Robocup Competition<br/>
-    <small>Thomas O'Brien</small>
+    <small>
+        Thomas O'Brien
+        -
+        <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_1.pdf">Extended abstract</a>
+    </small>
 </td>
 </tr>
 
@@ -236,7 +268,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <td>16:40</td>
 <td>
     A Sampling-Based Algorithm for Multi-Agent Coordination in RoboCup Soccer<br/>
-    <small>Filippo Spinelli</small>
+    <small>
+        Filippo Spinelli
+        -
+        <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_7.pdf">Extended abstract</a>
+    </small>
 </td>
 </tr>
 
@@ -271,11 +307,11 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
 <div>
 **Antonin Raffin** ([homepage](https://araffin.github.io/))  
 *German Aerospace Center (DLR)*
-
 <b>
 Presentation:
 </b>
 Tips for Learning Locomotion Directly on Real Hardware
+
 
 <small>
 
@@ -306,28 +342,6 @@ LeRobot: Lowering the entry barrier to AI for robotics
 </div>
 </div>
 
-</div>
-
-<div class="alert alert-info">
-<p>
-
-All participants will have to [register to Humanoids 2024](https://2024.ieee-humanoids.org/registration/)
-
-</p>
-</div>
-
-<hr/>
-
-**Program**
-
-The workshop is a **full-day** workshop, taking place on the **22nd of November, 2024**.
-
-<div class="alert alert-warning">
-<p>
-
-To be announced
-
-</p>
 </div>
 
 <hr/>
