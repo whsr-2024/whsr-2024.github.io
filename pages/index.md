@@ -260,6 +260,10 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
         Thomas O'Brien
         -
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_1.pdf">Extended abstract</a>
+        -
+        <img src="imgs/slides.png" width="24" /> <a target="_blank" href="https://uoneduau-my.sharepoint.com/:p:/g/personal/c3304696_uon_edu_au/EawjYan5zSBCsAhFAfElZ5MBRaxE-5dawg4hQofN_q3lXw?e=DwU6wx">Slides</a>
+        -
+        <img src="imgs/github.png" width="24" /> <a target="_blank" href="https://github.com/NUbots/NUbots">Repository</a>
     </small>
 </td>
 </tr>
