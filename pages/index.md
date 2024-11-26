@@ -100,7 +100,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     <br/>
     <small>
         Grégoire Passault
-        -
+        <br/>
         <img src="imgs/slides.png" width="24" /> <a target="_blank" href="slides/rhoban/">Slides</a>
     </small> 
 </td>
@@ -112,7 +112,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     Maximum Impulse Approach to Soccer Kicking for Humanoid Robots<br/>
     <small>
         Grzegorz Ficht
-        -
+        <br/>
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_5.pdf">Extended abstract</a>
     </small> 
 </td>
@@ -149,7 +149,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     Learning Footstep Planning using Deep Reinforcement Learning for Dynamic Walking<br/>
     <small>
         Jasper Güldenstein
-        -
+        <br/>
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_4.pdf">Extended abstract</a>
     </small>
 </td>
@@ -161,7 +161,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     Introducing FootstepNet: an Efficient Actor-Critic Method for Fast On-line Bipedal Footstep Planning and Forecasting<br/>
     <small>
         Clément Gaspard
-        -
+        <br/>
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_3.pdf">Extended abstract</a>
         -
         <img src="imgs/github.png" width="24" /> <a target="_blank" href="https://github.com/rhoban/footstepnet_envs">Repository</a>
@@ -187,7 +187,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     <span class="badge badge-primary bg-primary">Invited talk</span> Tips for Learning Locomotion Directly on Real Hardware <br/>
     <small>
         Antonin Raffin
-        -
+        <br/>
         <img src="imgs/slides.png" width="24" /> <a target="_blank" href="https://araffin.github.io/slides/ingredients-learning-locomotion/">Slides</a>
     </small> 
 </td>
@@ -199,7 +199,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     Introducing FRASA: An End-to-End Reinforcement Learning Agent for Fall Recovery and Stand Up of Humanoid Robots<br/>
     <small>
         Marc Duclusaud
-        -
+        <br/>
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_2.pdf">Extended abstract</a>
         -
         <img src="imgs/github.png" width="24" /> <a target="_blank" href="https://github.com/rhoban/frasa">Repository</a>
@@ -213,7 +213,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     Towards the ultimate goal of RoboCup with a standard humanoid robot platform<br/>
     <small>
         Mingguo Zhao
-        -
+        <br/>
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_6.pdf">Extended abstract</a>
     </small>
 </td>
@@ -246,7 +246,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     Anticipatory Approach to Combining Local and Global Perception for Stable Decision-Making<br/>
     <small>
         Heinrich Mellmann
-        -
+        <br/>
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_8.pdf">Extended abstract</a>
     </small>
 </td>
@@ -258,7 +258,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     Kinematic State Estimation for Humanoid Robots in the Robocup Competition<br/>
     <small>
         Thomas O'Brien
-        -
+        <br/>
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_1.pdf">Extended abstract</a>
         -
         <img src="imgs/slides.png" width="24" /> <a target="_blank" href="https://uoneduau-my.sharepoint.com/:p:/g/personal/c3304696_uon_edu_au/EawjYan5zSBCsAhFAfElZ5MBRaxE-5dawg4hQofN_q3lXw?e=DwU6wx">Slides</a>
@@ -274,7 +274,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     A Sampling-Based Algorithm for Multi-Agent Coordination in RoboCup Soccer<br/>
     <small>
         Filippo Spinelli
-        -
+        <br/>
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_7.pdf">Extended abstract</a>
     </small>
 </td>
@@ -288,7 +288,7 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
     <br/>
     <small>
         Sven Behnke
-        -
+        <br/>
         <img src="imgs/slides.png" width="24" /> <a target="_blank" href="slides/Humanoids_2024_Soccer_WS_Sven_Behnke_11_22.pdf">Slides</a>
     </small> 
 </td>
