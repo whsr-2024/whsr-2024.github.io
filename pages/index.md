@@ -276,6 +276,8 @@ Make your [submission on EasyChair](https://easychair.org/my/conference?conf=whs
         Filippo Spinelli
         <br/>
         <img src="imgs/pdf.png" width="24" /> <a target="_blank" href="files/paper_7.pdf">Extended abstract</a>
+        -
+        <img src="imgs/github.png" width="24" /> <a target="_blank" href="https://github.com/nomadz-ethz/nomadz-code-release/tree/code-release-2023">Repository</a>
     </small>
 </td>
 </tr>
